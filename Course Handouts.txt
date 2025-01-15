@@ -4,6 +4,8 @@ Agile 4 values
 3rd Value: Customer Collaboration Over Contract Negotiation
 4th value: Responding to Change over Following a Plan
 
+500
+
 12 Agile Principles:
 1. Our highest priority is to satisfy the customer through early and continous delivery of valuable software.
 2. Deliver working software frequently, at intervals of between a few weeks to a few months, with a preference to the shorter timescale
