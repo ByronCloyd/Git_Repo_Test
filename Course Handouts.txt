@@ -1,0 +1,159 @@
+Agile 4 values
+1st Value: Individuals and Interactions over Processes and Tools
+2nd value: Working Software Over Comprehensive Document
+3rd Value: Customer Collaboration Over Contract Negotiation
+4th value: Responding to Change over Following a Plan
+
+12 Agile Principles:
+1. Our highest priority is to satisfy the customer through early and continous delivery of valuable software.
+2. Deliver working software frequently, at intervals of between a few weeks to a few months, with a preference to the shorter timescale
+3. Working Software is the primary measure of progress
+4. Continuous attention to technical excellence and good design enhances agility 
+5. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace idefinitey. 
+6. Simplicity- The art of maximizing the amount of work not done - is essential. 
+7. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. 
+8. The best arhitectures, requirements, and designs emerge from self-organizing teams.
+9. Business people and developers must work together daily throughout the project. 
+10. The most efficienbt and effective method of conveying information to and within a development team is face to face conversation
+11. At regular intervals, the team reflects on how to become more effective, then tune and adjusts its behavior accordingly
+12. WElcome changing requirements, even late in development. Agile process harness change for the customer's competitive advantage. 
+
+
+Agile practices
+1. Whole-team approach
+2. Daily Stand-Up Meetings
+3. Testers in Whole-team approach
+4. The Power of Three
+Approach
+1. Early and Frequent feedback
+2
+
+Aspects of Agile Approaches
+1.Extreme programming - Has 12 Principles
+2. Drawbacks of XP 
+3. 
+
+Kanban - To-do, doing, Done
+1.kanban board
+2. Work in progress limit
+3. Lead Time 
+
+Collaborative User Story Creation
+Card
+Conversation
+Confirmation
+
+Invest Technique
+I - Independent
+N - Negotiable
+V - Valuable
+E - Estimatable
+S - Simple
+T - Testable
+
+Epic user story
+
+Retrospectives 
+
+Continuous Integration 
+Static Code Analys
+Compile
+Unit Test
+Deply
+Integration Test
+Report
+
+Release and Iteration Planning
+
+
+2.1 Difference between testing in traditional and agile approaches
+
+2.3 Role and skills of a tester in an agile team
+1 Agile tester skills
+
+3.1 Agile Testing Methods
+3 Methods
+1.Test-Driven Development
+
+2. Acceptance-Driven Development
+3.Behavior-Driven Developmen
+
+The test pyramid
+
+Acceptance - 10%
+Integration - 20%
+Unit - 70%
+
+Testing Quadrants
+Unit Tests
+Functional Tests
+Non-functional Tests
+Acceptance Tests
+
+1. Automation and Manual Test
+2. Manual Test
+3. Automation Test
+4. Special tool and Automation Test
+
+Agile Testing Quadrants
+Functional Tests
+Exploratory Testing
+Unit Tests
+Perfomance and Load Testing
+
+2- Tests can be used for 
+Supporting Development
+Verification only
+
+4 Test
+
+The Role of a Tester
+1. Teamwork
+2. Agile Testing Principles
+3. Sprint Zero
+4. Test Planning
+5. Integration
+
+Behavior Driven Development
+
+Assessing Quality Risk in Agile Projects
+2 types
+Release Planning
+Iteration Planning
+
+Planning Poker
+
+Scrum Team Practices
+Pairing
+Incremental test design
+Mind Mapping
+
+TECHNIQUES IN AGILE PROJECTS
+Nonfunctional requirements
+
+Test Bases
+
+Definition of Done
+
+Release 
+1.Coverage
+2.Quality
+3.Time
+4.Cost
+
+Exploratory Testing and Agile Testing
+
+Tools in agile projects
+.Task management and Tracking
+.Communication and Information Sharing Tools
+.Software build and Distribution Tools
+.Configuration Management Tools
+
+5-Test Design, Implementation anad Execution Tools
+Test Design Tools
+Test case management tools
+Test data preparation and generation tools
+Test data load Tools
+Automated Test Execution Tools
+Exploratort Test Tools
+Cloud Computing and Virtualization Tools
